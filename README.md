@@ -135,7 +135,7 @@ Ranked Silver Functional Tester worldwide. Documented cross-platform edge cases 
 - 📧 **Email:** [shyamalahariprasad11@gmail.com](mailto:shyamalahariprasad11@gmail.com)
 - 💼 **LinkedIn:** [shyamala-hari-prasad](https://www.linkedin.com/in/shyamala-hari-prasad-231809325/)
 - 🐙 **GitHub:** [hariprasad111189](https://github.com/hariprasad111189)
-- 🌐 **Portfolio:** `[Add live portfolio URL]`
+- 🌐 **Portfolio:** `[https://hariprasad111189.github.io/new/]`
 
 ---
 
